@@ -6,3 +6,4 @@ python/venv
 .gitignore
 mnist_data
 dev
+output
